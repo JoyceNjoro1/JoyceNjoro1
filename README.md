@@ -5,7 +5,8 @@
 - 🌱I enjoy working in teams, collaborating, pair programming.
 - 👯 I'm a fast learner.
 - 🤔 How to reach me.
-    -TWitter.
+  
+    -Twitter.
     -Linkedin.
     -Email.
 - 💬 Ask me about anything
